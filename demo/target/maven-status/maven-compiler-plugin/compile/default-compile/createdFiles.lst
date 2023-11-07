@@ -1,0 +1,16 @@
+com/example/demo/services/GroupService.class
+com/example/demo/dto/TipoGrupoDTO.class
+com/example/demo/DemoApplication$1.class
+com/example/demo/repositories/TipoGrupoRepository.class
+com/example/demo/repositories/PersonRepository.class
+com/example/demo/services/TipoGrupoService.class
+com/example/demo/controllers/GroupController.class
+com/example/demo/entities/Person.class
+com/example/demo/repositories/GroupRepository.class
+com/example/demo/entities/TipoGrupo.class
+com/example/demo/DemoApplication.class
+com/example/demo/dto/PersonDTO.class
+com/example/demo/services/PersonService.class
+com/example/demo/controllers/PersonController.class
+com/example/demo/entities/Group.class
+com/example/demo/controllers/TipoGrupoController.class
